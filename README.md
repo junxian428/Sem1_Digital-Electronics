@@ -3,3 +3,7 @@
 2 May 2024 Midterm break
 
 9 May 2024 Midterm Chapter 1-3
+
+
+
+Simulation use Multisim
